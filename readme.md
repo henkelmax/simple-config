@@ -1,4 +1,5 @@
-# Simple Config
+# Simple Config ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/henkelmax/simple-config/Build) ![GitHub issues](https://img.shields.io/github/issues-raw/henkelmax/simple-config) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/henkelmax/simple-config?include_prereleases)
+
 
 A very simple configuration library for Java.
 
