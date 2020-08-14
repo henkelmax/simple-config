@@ -19,3 +19,25 @@ config.put("string-test", "Hello World!");
 config.put("int-test", 123);
 config.put("double-test", 12.3D);
 ```
+
+## Maven
+
+**Dependency**
+
+``` xml
+<dependency>
+  <groupId>de.maxhenkel.simpleconfig</groupId>
+  <artifactId>simple-config</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+</dependency>
+```
+
+**Repository**
+
+``` xml
+<repository>
+  <id>simple-config</id>
+  <name>GitHub Simple Config Maven Packages</name>
+  <url>https://maven.pkg.github.com/henkelmax/simple-config</url>
+</repository>
+```
