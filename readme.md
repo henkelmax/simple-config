@@ -37,8 +37,14 @@ config.put("double-test", 12.3D);
 
 ``` xml
 <repository>
+  <id>henkelmax</id>
+  <url>https://maven.maxhenkel.de/repository/public</url>
+</repository>
+```
+<!--``` xml
+<repository>
   <id>simple-config</id>
   <name>GitHub Simple Config Maven Packages</name>
   <url>https://maven.pkg.github.com/henkelmax/simple-config</url>
 </repository>
-```
+```-->

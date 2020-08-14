@@ -33,12 +33,16 @@
             </plugin>
         </plugins>
     </build>
-
+    
     <distributionManagement>
-        <repository>
+        <!--<repository>
             <id>github</id>
             <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/henkelmax/simple-config</url>
+        </repository>-->
+        <repository>
+            <id>henkelmax.public</id>
+            <url>https://maven.maxhenkel.de/repository/public</url>
         </repository>
     </distributionManagement>
 
